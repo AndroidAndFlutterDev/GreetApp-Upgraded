@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreetApp Upgraded</string>
+
+    <string name="welcome_text">Welcome to the GreetApp 👋!</string>
+    <string name="hint">Enter your name here</string>
+    <string name="button_text">Press Me!</string>
+    <string name="error">The name is too long, please enter a shorter one</string>
+</resources>
